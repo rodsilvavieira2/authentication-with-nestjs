@@ -22,3 +22,4 @@ Essa aplicação implementa dois processos de autenticação para os seus usuari
 - Jest
 - Class-Validator
 - Class-Transformer
+- Handlebars
