@@ -5,6 +5,21 @@
   "author": "Rodrigo Silva <rodsilvavieira@gmail.com>",
   "private": true,
   "license": "MIT",
+  "keywords": [
+    "authentication",
+    "jwt",
+    "nodejs",
+    "SOLID",
+    "Nest.js",
+    "passport",
+    "passport-jwt",
+    "passport-local",
+    "passport-google-oauth20",
+    "typescript",
+    "typeorm",
+    "jest",
+    "TDD"
+  ],
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",

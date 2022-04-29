@@ -10,8 +10,9 @@ import {
 export class UpdateUserDto {
   @IsString()
   @IsNotEmpty()
+  @IsOptional()
   @ApiProperty({})
-  name: string;
+  name?: string;
 
   @IsOptional()
   @IsUrl()
